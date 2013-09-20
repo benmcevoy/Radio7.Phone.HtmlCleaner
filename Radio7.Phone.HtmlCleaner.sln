@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radio7.Phone.HtmlCleaner", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radio7.Phone.HtmlCleaner.Tests", "Radio7.Phone.HtmlCleaner.Tests\Radio7.Phone.HtmlCleaner.Tests.csproj", "{366EC423-6BC5-46B0-B086-D84FAB2FFF12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radio7.HtmlCleaner", "Radio7.HtmlCleaner\Radio7.HtmlCleaner.csproj", "{CA34433E-BD56-4463-A54B-077BC8677163}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,18 @@ Global
 		{366EC423-6BC5-46B0-B086-D84FAB2FFF12}.Release|x86.ActiveCfg = Release|x86
 		{366EC423-6BC5-46B0-B086-D84FAB2FFF12}.Release|x86.Build.0 = Release|x86
 		{366EC423-6BC5-46B0-B086-D84FAB2FFF12}.Release|x86.Deploy.0 = Release|x86
+		{CA34433E-BD56-4463-A54B-077BC8677163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA34433E-BD56-4463-A54B-077BC8677163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA34433E-BD56-4463-A54B-077BC8677163}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{CA34433E-BD56-4463-A54B-077BC8677163}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{CA34433E-BD56-4463-A54B-077BC8677163}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{CA34433E-BD56-4463-A54B-077BC8677163}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CA34433E-BD56-4463-A54B-077BC8677163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA34433E-BD56-4463-A54B-077BC8677163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA34433E-BD56-4463-A54B-077BC8677163}.Release|ARM.ActiveCfg = Release|Any CPU
+		{CA34433E-BD56-4463-A54B-077BC8677163}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{CA34433E-BD56-4463-A54B-077BC8677163}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{CA34433E-BD56-4463-A54B-077BC8677163}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
